@@ -29,8 +29,8 @@
     "cvUrl": "https://test.pdf",
     "place": "Azerbaijan, Baku",
     "github": "https://github.com/ElcinQuliyev",
-    "linkedin": "https://www.linkedin.com/in/elcin-quliyev/",
-    "email": "elcinq743@gmail.com"
+    "linkedin": "https://linkedin.com/in/elcin-quliyev",
+    "email": "elcinquliyevm@gmail.com"
   },
   "Tech": [
     "Python",
@@ -56,14 +56,14 @@
   ],
   "Experience": [
     {
-      "startDate": "2022-05-29",
+      "startDate": "2023-05",
       "endDate": null,
-      "position": "Frondend Developer",
-      "company": "JED Academy"
+      "position": "Python Developer",
+      "company": "JET Academy"
     },
     {
-      "startDate": "2022-08-10",
-      "endDate": "2023-03-30",
+      "startDate": "2022-08",
+      "endDate": "2023-03",
       "position": "Frondend Developer",
       "company": "Orient Academy"
     }
@@ -73,7 +73,7 @@
       "startYear": 2017,
       "endDate": 2021,
       "degree": "Bachelor",
-      "university": "Azərbaycan Kooperasiya Universteti"
+      "university": "Azerbaijan Cooperative University"
     }
   ]
 }
