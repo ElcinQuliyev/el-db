@@ -1,7 +1,7 @@
 {
   "userData": {
     "firstName": "Elcin",
-    "logo":"./logo.png",
+    "logo":"./public/logo.png",
     "lastName": "Quliyev",
     "interests": [
       "Python Developer",
