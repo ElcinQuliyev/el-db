@@ -61,8 +61,14 @@
     {
       "startDate": "2023-05",
       "endDate": "2025-12",
-      "position": "Python Developer",
+      "position": "Python Backend Developer",
       "company": "JET Academy"
+    },
+    {
+      "startDate": "2024-02",
+      "endDate": null,
+      "position": "Python Backend Developer",
+      "company": "JET School"
     },
     {
       "startDate": "2022-08",
